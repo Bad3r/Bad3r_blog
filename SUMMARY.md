@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Bad3r Blog](README.md)
 
 ## Wargames
 
